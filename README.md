@@ -4,7 +4,7 @@ I developed a fashion recommendation system that utilizes the power of transfer 
 
 This  recommendation system showcases the versatility and power of  transfer learning, similarity search, and convolutional neural networks (CNNs), providing a solid foundation for building larger and more comprehensive recommendation systems.
 
-##   💻Recommendation Engine:Proposed Methodology 
+## 💻Recommendation Engine:Proposed Methodology 
 
 In this project, we propose a model that uses Convolutional Neural Network and the Nearest 
 neighbour backed recommender. As shown in the figure Initially, the neural networks are trained and then 
