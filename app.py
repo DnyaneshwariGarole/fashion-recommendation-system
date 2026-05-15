@@ -27,9 +27,7 @@ def extract_features(img_path,model):
     normalized_result = result / norm(result)
 
     return normalized_result
-
 filenames = []
-
 for file in os.listdir('images'):
     filenames.append(os.path.join('images',file))
 
@@ -40,4 +38,3 @@ for file in tqdm(filenames):
 
 pickle.dump(feature_list,open('embeddings.pkl','wb'))
 pickle.dump(filenames,open('filenames.pkl','wb'))
-
