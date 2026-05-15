@@ -14,7 +14,6 @@ input image and recommendations are generated.
 
 ![work-model](https://user-images.githubusercontent.com/89743011/170476738-cdfcd048-8bfd-450c-ad58-20ec025d5b7c.png)
 
-
 ## 📊Application Flow-Chart
 
 To generate recommendations, our proposed approach uses Sklearn Nearest neighbours . This allows us to find the nearest neighbours for the 
@@ -34,10 +33,7 @@ recommendations are extracted from the database and their images are displayed.
   weights from ResNet50 in order to fine-tune the network model to serve the current issue. The figure
   shows the ResNet50 architecture.
 
-
-
 ![59954intro to CNN](https://user-images.githubusercontent.com/89743011/170827497-76197e3a-e1b7-4e69-b809-9d6d076100f0.jpg)
-
 
 
 ## Getting the inventory
@@ -87,9 +83,6 @@ Use pip to install the requirements.
 pip install -r requirements.txt
 ~~~
 
-
-
-
 ## 📖Usage
 
 To run the web server, simply execute streamlit with the main recommender app:
@@ -97,9 +90,6 @@ To run the web server, simply execute streamlit with the main recommender app:
 ```bash
 streamlit run main.py
 ```
-
-
-
 
 ## [Built With/Dependencies](dependencies)
 
