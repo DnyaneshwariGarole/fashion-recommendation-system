@@ -25,7 +25,6 @@ model = tf.keras.Sequential([
     base_model,
     GlobalMaxPooling2D()
 ])
-
 st.title('Fashion Recommender System')
 
 # FUNCTIONS 
