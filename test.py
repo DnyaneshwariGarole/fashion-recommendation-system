@@ -37,4 +37,3 @@ for file in indices[0][1:6]:
     temp_img = cv2.imread(filenames[file])
     cv2.imshow('output',cv2.resize(temp_img,(512,512)))
     cv2.waitKey(0)
-
