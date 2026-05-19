@@ -44,7 +44,6 @@ is then used to generate recommendations.
 
 ![dataset-cover](https://user-images.githubusercontent.com/89743011/170478150-9204c659-06a4-48bf-8420-5fee02a3c4d3.png)
 
-
 ## Experiment and results
 
 The concept of Transfer learning is used to overcome the issues of the small size Fashion dataset. 
