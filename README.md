@@ -51,7 +51,6 @@ Therefore we pre-train the classification models on the DeepFashion dataset that
 garment images. The networks are trained and validated on the dataset taken. The training results 
 show a great accuracy of the model with low error, loss and good f-score.
 
-
 ## Dataset Link
 
  - [Kaggle Dataset Big size 15 GB](https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset)
