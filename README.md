@@ -34,7 +34,6 @@ recommendations are extracted from the database and their images are displayed.
 
 ![59954intro to CNN](https://user-images.githubusercontent.com/89743011/170827497-76197e3a-e1b7-4e69-b809-9d6d076100f0.jpg)
 
-
 ## Getting the inventory
 
 The images from Kaggle Fashion Product Images Dataset. The 
