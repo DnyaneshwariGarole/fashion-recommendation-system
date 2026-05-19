@@ -115,7 +115,6 @@ streamlit run main.py
 
 ## 📚Resources
 
-
  - [CNN:Convolutional Neural Network](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.analyticsvidhya.com%2Fblog%2F2022%2F01%2Fconvolutional-neural-network-an-overview%2F&psig=AOvVaw17iUbKlnmXbO9mjLRJ52Tk&ust=1653830434872000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCODLsNOkgvgCFQAAAAAdAAAAABAK)
 
  - [python](https://www.pythoncheatsheet.org/)
@@ -130,4 +129,3 @@ fashion image from any E-commerce website and later generating similar images to
 based on the features and texture of the input image. It is imperative that such research goes forward 
 to facilitate greater recommendation accuracy and improve the overall experience of fashion 
 exploration for direct and indirect consumers alike.
-
