@@ -31,7 +31,7 @@ neighbors.fit(feature_list)
 
 distances,indices = neighbors.kneighbors([normalized_result])
 
-print(indices)
+print(indices) 
 
 for file in indices[0][1:6]:
     temp_img = cv2.imread(filenames[file])
