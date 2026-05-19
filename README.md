@@ -122,8 +122,6 @@ streamlit run main.py
 
  - [python](https://www.pythoncheatsheet.org/)
  
- 
- 
 ## ✨Conclusion
 
 In this project, we have presented a novel framework for fashion recommendation that is driven by data, 
