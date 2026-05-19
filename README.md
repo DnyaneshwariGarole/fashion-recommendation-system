@@ -101,6 +101,7 @@ streamlit run main.py
 
 - **opencv-python** - OpenCV is a huge open-source library for computer vision, machine learning, and image processing.
 
+
 ## 💡Challenges Faced and Learnings
 
 - Had very basic knowledge of Deep Learning before the Microsoft Engage Program's qualification announcement. Spentquality time on learning the new concepts attached to Deep Learning and then began the design-build process of this project.
