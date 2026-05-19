@@ -22,7 +22,6 @@ recommendations are extracted from the database and their images are displayed.
 
 ![flow-chart](https://user-images.githubusercontent.com/89743011/170476148-5c472690-675b-4907-91c4-9b9804668f6f.png)
 
-
 ## Convolutional Neural Networks
 
 - Convolutional Neural Network is a specialized neural network designed for visual data, such as images & videos. But CNNs also work well for non-image data (especially in NLP & text classification).
