@@ -1,5 +1,5 @@
 ## 🚀Introduction
----
+
 I developed a fashion recommendation system that utilizes the power of transfer learning using ResNet-50 architecture along with Annoy an optimized K-Nearest Neighbours algorithm to deliver personalized recommendations based on user input. By performing feature extraction on a large dataset of over 45,000 images using transfer learning with ResNet-50, I was able to effectively analyze the image data. To identify the top 5 closest matches to a user's input, I implemented a similarity search approach using K-Nearest Neighbours, providing personalized fashion recommendations. The system is user-friendly and intuitive, and allows for accurate and effective analysis of image data.
 
 This  recommendation system showcases the versatility and power of  transfer learning, similarity search, and convolutional neural networks (CNNs), providing a solid foundation for building larger and more comprehensive recommendation systems.
@@ -87,7 +87,7 @@ To run the web server, simply execute streamlit with the main recommender app:
 ```bash
 streamlit run main.py
 ```
-
+---
 ## [Built With/Dependencies](dependencies)
 
 - **OpenCV** - Open Source Computer Vision and Machine Learning software library
@@ -106,6 +106,7 @@ streamlit run main.py
 
 - **opencv-python** - OpenCV is a huge open-source library for computer vision, machine learning, and image processing.
 
+---
 ## 💡Challenges Faced and Learnings
 
 - Had very basic knowledge of Deep Learning before the Microsoft Engage Program's qualification announcement. Spentquality time on learning the new concepts attached to Deep Learning and then began the design-build process of this project.
@@ -114,12 +115,14 @@ streamlit run main.py
 
 - Setting the dependencies with proper version is the most critical. 
 
+---
 ## 📚Resources
 
  - [CNN:Convolutional Neural Network](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.analyticsvidhya.com%2Fblog%2F2022%2F01%2Fconvolutional-neural-network-an-overview%2F&psig=AOvVaw17iUbKlnmXbO9mjLRJ52Tk&ust=1653830434872000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCODLsNOkgvgCFQAAAAAdAAAAABAK)
 
  - [python](https://www.pythoncheatsheet.org/)
- 
+
+ ---
 ## ✨Conclusion
 
 In this project, we have presented a novel framework for fashion recommendation that is driven by data, 
